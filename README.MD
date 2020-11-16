@@ -1,4 +1,4 @@
-# Visual-Odometry-for-Viman
+# viman_vo
 This is the repository containing the Computer vision algorithm using OpenCV in python for Viman application.
 
 1. What the repo does?
