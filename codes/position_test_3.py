@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 """
 Vishnu... Thank you for electronics.
 
@@ -19,7 +17,7 @@ Theory:
 	3. Same step as first but for next/new frame.
 	4. Use feature matcher for matching the two frame value. In short, find correspoinds between 
 	the images.
-	5. Store correspoinding points for further operations.
+	5. store correspoinding points for further operations.
 	6. Apply Fundamental matrix operation.
 	7. Use camera matrix to convert the fundamental matrix to essential matrix.
 	8. Calculate the relative pose  (Rotation and translation).
